@@ -1,4 +1,6 @@
-[example](https://github.com/bayesian-optimization/BayesianOptimization/tree/master/examples)
+[example](https://github.com/bayesian-optimization/BayesianOptimization/tree/master/examples) 를 참고하여 한국어로 작성하였습니다.
+
+순서는 다음과 같습니다.
 
 1.basic-tour.ipynb
 
